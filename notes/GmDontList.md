@@ -1,25 +1,25 @@
-# GM Don't List
+# DM Don’t List (The Alexandrian)
 
-1. Morphing Reality
-2. Rolling to Failure
-3. Resolution Dithering
-4. Thou Shalt Not Hack
-5. Not Knowing the Rules
-6. Choose Your Own Adventure
-7. Preempting Investigation
-8. Mysteries With No Clues
-9. Fudging
-10. Idea Rolls
-11. Description-on-Demand
-12. Mail Carrier Scenario Hooks
-13. Boxed Text Pitfalls
-14. Fearing the Silence
-15. The Railroader’s Fallacy
-16. Not Writing Down Initiative
-17. Too Many Players
-18. Too Precious Encounters
-19. Ignoring Character Backstories
-20. Always Say Yes
+1. [Morphing Reality](https://thealexandrian.net/wordpress/37571/roleplaying-games/gm-dont-list-1-morphing-reality)
+2. [Rolling to Failure](https://thealexandrian.net/wordpress/38798/roleplaying-games/gm-dont-list-2-rolling-to-failure)
+3. [Resolution Dithering](https://thealexandrian.net/wordpress/38926/roleplaying-games/gm-dont-list-3-resolution-dithering)
+4. [Thou Shalt Not Hack](https://thealexandrian.net/wordpress/39246/roleplaying-games/gm-dont-list-4-thou-shalt-not-hack)
+5. [Not Knowing the Rules](https://thealexandrian.net/wordpress/39303/roleplaying-games/gm-dont-list-5-not-knowing-the-rules)
+6. [Choose Your Own Adventure](https://thealexandrian.net/wordpress/39378/roleplaying-games/gm-dont-list-6-choose-your-own-adventure)
+7. [Preempting Investigation](https://thealexandrian.net/wordpress/39682/roleplaying-games/gm-dont-list-7-preempting-investigation)
+8. [Mysteries With No Clues](https://thealexandrian.net/wordpress/40698/roleplaying-games/gm-dont-list-8-mysteries-with-no-clues)
+9. [Fudging](https://thealexandrian.net/wordpress/43708/roleplaying-games/gm-dont-list-9-fudging)
+10. [Idea Rolls](https://thealexandrian.net/wordpress/44589/roleplaying-games/gm-dont-list-10-idea-rolls)
+11. [Description-on-Demand](https://thealexandrian.net/wordpress/44891/roleplaying-games/gm-dont-list-11-description-on-demand)
+12. [Mail Carrier Scenario Hooks](https://thealexandrian.net/wordpress/47140/roleplaying-games/gm-dont-list-12-mail-carrier-scenario-hooks)
+13. [Boxed Text Pitfalls](https://thealexandrian.net/wordpress/48312/roleplaying-games/gm-dont-list-13-boxed-text-pitfalls)
+14. [Fearing the Silence](https://thealexandrian.net/wordpress/48717/roleplaying-games/gm-dont-list-14-fearing-the-silence)
+15. [The Railroader’s Fallacy](https://thealexandrian.net/wordpress/49152/roleplaying-games/gm-dont-list-15-the-railroaders-fallacy)
+16. [Not Writing Down Initiative](https://thealexandrian.net/wordpress/50254/roleplaying-games/gm-dont-list-16-dont-write-down-initiative)
+17. [Too Many Players](https://thealexandrian.net/wordpress/50279/roleplaying-games/gm-dont-list-17-too-many-players)
+18. [Too Precious Encounters](https://thealexandrian.net/wordpress/50454/roleplaying-games/gm-dont-list-18-too-precious-encounters)
+19. [Ignoring Character Backstories](https://thealexandrian.net/wordpress/51025/roleplaying-games/gm-dont-list-19-ignoring-character-backstories)
+20. [Always Say Yes](https://thealexandrian.net/wordpress/52303/roleplaying-games/gm-dont-list-20-always-say-yes)
 
 ---
 
