@@ -1,0 +1,1 @@
+Python application that reads Azure json config an allows editing / querying / generating
