@@ -1,0 +1,8 @@
+API App Registration Front-end vs Back-end
+
+The App Service uses "back-end" as its "AzureAd:ClientId"
+
+Getting and OAuth Token uses
+resource: back-end
+client_id: frond-end
+client_secret: front-end
