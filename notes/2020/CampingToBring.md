@@ -15,7 +15,7 @@
 * Camp seats
 * Camp pillows
 
-### Thing to get
+## Thing to get
 
 * Camp Pillows
 * Another sleeping pad
